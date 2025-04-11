@@ -97,7 +97,6 @@ You’re building a **website** that will be live on the internet through your *
 ---
 
 <br>
-
 ### ✅ **Check Your Work!**  
 - **After each TODO**, double-check your code to ensure it matches the examples.
 - If you encounter issues, **preview your site** using Live Server to troubleshoot.
